@@ -1,0 +1,25 @@
+{
+    "type": "PageContent",
+    "components": [
+      {
+        "type": "PopOver",
+        "label": "hello",
+        "components": [
+          {
+            "type": "Text",
+            "text": "Un text de test"
+          }
+        ]
+      },
+      {
+        "type": "Dialog",
+        "isOpen": false,
+        "components": [
+          {
+            "type": "Text",
+            "text": "Un text de test"
+          }
+        ]
+      }
+    ]
+}

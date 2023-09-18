@@ -1,0 +1,6 @@
+.closeButton {
+    color: red;
+    &:focus {
+        outline: 1px solid black;
+    }
+}
